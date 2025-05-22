@@ -1,6 +1,6 @@
 # 🍲 Recipe on the Go
 
-**Recipe on the Go** is a responsive and user-friendly recipe web application that allows users to discover, explore, and manage a wide variety of recipes. From comfort foods to trendy bites, the platform offers categorized recipes, a top-searched carousel, and a clean modern UI with built-in login/register functionality.
+Recipe on the Go is a responsive and user-friendly recipe web application that allows users to discover, explore, and manage a wide variety of recipes. From comfort foods to trendy bites, the platform offers categorized recipes, a top-searched carousel, and a clean modern UI with built-in login/register functionality.
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔐 Login/Register Modal  
 ![Login Modal](./assets/login.png)
 
-![dd](./assets/Top_searches.mp4)
+![dd](./assets/Top_searched.mp4)
 
 ## 🛠️ Tech Stack
 
