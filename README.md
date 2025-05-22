@@ -26,8 +26,6 @@ Recipe on the Go is a responsive and user-friendly recipe web application that a
 ### 🔐 Login/Register Modal  
 ![Login Modal](./assets/login.png)
 
-![dd](./assets/Top_searched.mp4)
-
 ## 🛠️ Tech Stack
 
 - **HTML5**, **CSS3**
