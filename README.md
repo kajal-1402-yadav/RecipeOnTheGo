@@ -26,7 +26,7 @@
 ### 🔐 Login/Register Modal  
 ![Login Modal](./assets/login.png)
 
-![Login Modal](./assets/Top_searches.mp4)
+![dd](./assets/Top_searches.mp4)
 
 ## 🛠️ Tech Stack
 
